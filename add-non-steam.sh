@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# this part is almost fully taken from https://github.com/sonic2kk/steamtinkerlaunch
 
 ### Vars
 STEAM_DIR="${HOME}/.steam/steam"
